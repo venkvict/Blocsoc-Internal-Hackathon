@@ -13,6 +13,7 @@ Venkat:
 Developed functionalities for minting NFTs with owner verification, ensuring that only verified owners can mint NFTs.
 Tested the minting functionalities on Ganache Truffle.
 Attempted to implement zero-knowledge (zk) proof for verifying NFT ownership.
+
 Shraddha:
 Designed and implemented the user interface using HTML and CSS to create a visually appealing and responsive layout.
 Integrated the front end with Next.js to build a robust, server-rendered React application.
